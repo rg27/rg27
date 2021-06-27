@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </a>
-<a href="https://twitter.com/rg27">
+<a href="https://twitter.com/thebro_code97">
   <img align="left" alt="Rey Mar Gualvez's | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/rey-mar-gualvez-644548173/">
