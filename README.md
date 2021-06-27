@@ -7,7 +7,8 @@
   <img align="left" alt="Rey Mar Gualvez's | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br/>
+<br>
 
 Hi, I'm [Rey Mar Gualvez](reymar.vercel.app/), a passionate self-taught Full Stack web developer and a freelance software developer from Philippines. I spend my days developing and designing frontend and backend applications. I am specializing Laravel and Ruby on Rails framework on the backend, React.js and NextJS on the frontend and TailwindCSS for styling. 
 
